@@ -5,5 +5,5 @@
 Install packages:
 
 ``
- pkg install xorg xinit awesome git nnn neovim htop mixer firefox sourcecodepro-ttf sourcesanspro-ttf webcamd drm-next-kmod zsh st
+ pkg install xorg xinit awesome git nnn neovim htop mixer firefox sourcecodepro-ttf sourcesanspro-ttf webcamd drm-kmod zsh st
 ``

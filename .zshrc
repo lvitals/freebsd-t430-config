@@ -53,7 +53,3 @@ PROMPT='%{$fg[gray]%}%n%{$fg[gray]%}@%{$fg[gray]%}%m%{$fg[cyan]%} ${PWD/#$HOME/~
 # zsh-completions
 plugins=(zsh-completions)
 autoload -U compinit && compinit
-
-# Add RVM to PATH for scripting. 
-export PATH="$PATH:$HOME/.rvm/bin"
-source $HOME/.rvm/scripts/rvm
